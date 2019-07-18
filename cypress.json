@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://www.metaweather.com",
+  "chromeWebSecurity": false,
+  "viewportHeight": 1000,
+  "viewportWidth": 1200,
+  "numTestsKeptInMemory" : 1,
+  "defaultCommandTimeout": 60000,
+  "video": false
+}

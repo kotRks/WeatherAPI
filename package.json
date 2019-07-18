@@ -1,0 +1,39 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Weather API tests",
+  "engines": {
+    "node": ">= 8"
+  },
+  "devEngines": {
+    "npm": ">= 5.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "cy:run": "node scripts/cypress.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kotRks/WeatherAPI.git"
+  },
+  "author": "Kostiantyn Riabko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotRks/WeatherAPI/issues"
+  },
+  "homepage": "https://github.com/kotRks/WeatherAPI#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "cypress": "3.2.0",
+    "cypress-plugin-retries": "1.2.2",
+    "mocha": "5.2.0",
+    "mochawesome": "4.0.1",
+    "mochawesome-merge": "2.0.1",
+    "mochawesome-report-generator": "4.0.1"
+  }
+}

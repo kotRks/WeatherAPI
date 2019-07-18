@@ -1,0 +1,16 @@
+{
+  "data":[
+    {
+      "name": "San Francisco",
+      "longlatt":"37.777119, -122.41964"
+    },
+    {
+      "name": "San Diego",
+      "longlatt":"32.715691,-117.161720"
+    },
+    {
+      "name": "Bucharest",
+      "longlatt":"44.434200,26.102970"
+    }
+  ]
+}
