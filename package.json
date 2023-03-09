@@ -29,9 +29,9 @@
     "fs-extra": "^7.0.1"
   },
   "devDependencies": {
-    "cypress": "3.2.0",
+    "cypress": "12.7.0",
     "cypress-plugin-retries": "1.2.2",
-    "mocha": "5.2.0",
+    "mocha": "10.2.0",
     "mochawesome": "4.0.1",
     "mochawesome-merge": "2.0.1",
     "mochawesome-report-generator": "4.0.1"
